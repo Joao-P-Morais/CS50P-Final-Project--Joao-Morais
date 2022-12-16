@@ -30,7 +30,7 @@ The **_home team_** vs **_away team_** match starts in **_x days_**, **_x hours_
 
 
 ⚠️ **Note:** Doesn't matter if the team you are choosing to watch is the home or away team as the program will always return the opposing team.
-If the game the user wants to watch is happening that same day, the `x days` variable wont appear in the final string. Similarly if the match starts in minutes, the `x hours` variable won't appear as well.
+Also, if the game the user wants to watch is happening that same day, the `x days` variable wont appear in the final string. Similarly if the match starts in minutes, the `x hours` variable won't appear as well.
 
 
 ### File breakdown:
