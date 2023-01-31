@@ -37,7 +37,7 @@ Also, if the game the user wants to watch is happening that same day, the `x day
 
 - `project.py` - main code containing all the functions
 - `requirements.txt` - list of libraries used
-- `test_project.py` - program used to perform unit tests the fucntions of project.py
+- `test_project.py` - program used to perform unit tests the functions of project.py
 
 ### Design choices:
 
